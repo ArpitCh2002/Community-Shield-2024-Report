@@ -1,6 +1,8 @@
 # Community-Shield-2024-Report
 This repository has details about the visualizations created for Community Shield Final 2024 between Manchester City vs Manchester United.
 
+The dataset created and used in this report are added to the repository for reference.
+
 The visualizations are created for Man City vs Man Utd data obtained from Sofascore.
 Below are the visuals created are - 
 - Shotmap for Manchester City
