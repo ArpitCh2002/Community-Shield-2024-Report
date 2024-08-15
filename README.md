@@ -9,6 +9,6 @@ Below are the visuals created are -
 - Passmap and Shotmap for Manchester City key player - Mateo Kovacic
 - Passmap and Shotmap for Manchester United key player - Alejandro Garnacho
 
-- The complete briefed report can be found at: [LinkedIn Post Link]
+The complete briefed report can be found at: [LinkedIn Post Link]
 
-- The Jupyter notebook python file is also added to the repository for the code reference.
+The Jupyter notebook python file is also added to the repository for the code reference.
